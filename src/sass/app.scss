@@ -1,4 +1,9 @@
-// ...
+// Main SCSS
+
+@import 'utils/reset';
+@import 'layout/base';
+
 body {
-    // background-color: red;
+    font-family: "Input Mono Nar Lt";
+    font-size: 18px;
 }
